@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* .embed-responsive {
+  width: 540px;
+  height: 315px;
+  margin: auto;  
+}
+
+.embed-responsive-item {
+    padding-top: 5rem;
+    margin-top: 20px; 
+}*/
+
+.col-sm-6{
+    height: 50px;
+    text-align: left;
+}
+
+
+.row {
+    margin-top: 20px;
+}
